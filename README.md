@@ -9,7 +9,7 @@
 
 1.  **Install Dependencies.**
 
-    Run ```sh yarn install ``` or ```sh npm install``` to install packages
+    Run ```yarn install ``` or ```npm install``` to install packages
 
 1.  **Start developing.**
 
